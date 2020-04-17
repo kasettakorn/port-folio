@@ -1,0 +1,19 @@
+.col-4, #skill {
+    color: black;
+}
+.col-12, a {
+    color: white;
+}
+a {
+    text-decoration: underline;
+}
+a:hover {
+    color: greenyellow;
+}
+p {
+    font-size: 20px;
+}
+h3 {
+    font-weight: bold;
+    color: white;
+}

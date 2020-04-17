@@ -1,0 +1,28 @@
+.header {
+  cursor: pointer;
+  color: #fff;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.content {
+  cursor: pointer;
+}
+h3 {
+  color: cyan;
+}
+#product {
+  border-radius: 15px;
+  animation: fadein 3s forwards;
+}
+#scgCollapse {
+  margin-left: 100px;
+}
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
